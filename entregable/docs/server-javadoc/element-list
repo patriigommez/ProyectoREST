@@ -1,0 +1,5 @@
+dam.patricia.server
+dam.patricia.server.controller
+dam.patricia.server.dto
+dam.patricia.server.entity
+dam.patricia.server.repository

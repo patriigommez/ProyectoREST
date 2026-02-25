@@ -1,4 +1,4 @@
-﻿package dam.patricia.server;
+package dam.patricia.server;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

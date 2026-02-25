@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dam.patricia.server"},{"l":"dam.patricia.server.controller"},{"l":"dam.patricia.server.dto"},{"l":"dam.patricia.server.entity"},{"l":"dam.patricia.server.repository"}];updateSearchResults();
