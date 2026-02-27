@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dam.patricia.client","l":"Main"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dam.patricia.client","l":"ApiClient"},{"p":"dam.patricia.client.dto","l":"CategoriaDTO"},{"p":"dam.patricia.client","l":"Main"},{"p":"dam.patricia.client.dto","l":"ProductoRequestDTO"},{"p":"dam.patricia.client.dto","l":"ProductoResponseDTO"}];updateSearchResults();
