@@ -24,3 +24,6 @@ Thumbs.db
 # DB local (la generará el server)
 data/
 *.db
+
+ENTREGA_FINAL/
+ENTREGA_FINAL.zip
